@@ -1,4 +1,4 @@
 # ImgFlow
 
-- OF実装
-- 画像が流れる
+- openframeworks
+- multiple image flowing test
