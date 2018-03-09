@@ -1,1 +1,12 @@
-/Full Color Bossa2b.qtz
+.DS_Store
+
+bin/
+!data
+
+# Mac
+config.make
+ImgFlow.xcodeproj/*
+Makefile
+openFrameworks-Info.plist
+Project.xcconfig
+.idea/*
